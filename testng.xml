@@ -1,0 +1,7 @@
+<suite name="softwaretestingmaterial">
+	<test name="testDemo">
+		<classes>
+			<class name="SeleniumTestFramework.src.test.java.SeleniumTestFramework.SeleniumTestFramework.NewTest.java" />
+		</classes>
+	</test>
+</suite>
