@@ -1,7 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
 <suite name="softwaretestingmaterial">
 	<test name="testDemo">
 		<classes>
-			<class name="SeleniumTestFramework.src.test.java.SeleniumTestFramework.SeleniumTestFramework.NewTest.java" />
+			<class name="com.selenium.testscript.NewTest" />
 		</classes>
 	</test>
 </suite>
