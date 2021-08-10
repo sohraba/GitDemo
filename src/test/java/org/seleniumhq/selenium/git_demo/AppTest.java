@@ -12,7 +12,7 @@ public class AppTest
   protected WebDriver driver;
   @Test
   public void testGoogle() throws InterruptedException{
-	  System.out.println("Testing");
+	  System.out.println("This is to merge conflict");
 	  System.out.println("new code1");
 	  System.out.println("Testing123");
 	  System.setProperty("webdriver.chrome.driver", "F:\\Backup\\MyCode\\chromedriver\\chromedriver.exe");
