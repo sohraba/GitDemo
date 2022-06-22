@@ -12,6 +12,7 @@ public class App
         System.out.println( "Hello World!" );
     }
 	public void sum(){
+		System.out.println("sdsdad");
 		int sum=x+y;
 	}
 }
